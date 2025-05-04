@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config",
-  "version": "0.0.0",
+  "version": "0.0.6",
   "description": "> TODO: description",
   "author": "dengxinghai <136494463@qq.com>",
   "homepage": "",
@@ -14,4 +14,3 @@
     "lib"
   ]
 }
-
