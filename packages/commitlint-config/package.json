@@ -1,24 +1,17 @@
 {
-  "name": "encode-fe-commitlint-config",
-  "version": "0.0.5",
-  "main": "index.js",
-  "description": "印客学院 Git规范",
-  "keywords": [
-    "encode",
-    "commit",
-    "lint"
-  ],
-  "author": "chenghuai",
-  "homepage": "https://github.com/encode-studio-fe/fe-spec#readme",
+  "name": "commitlint-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "dengxinghai <136494463@qq.com>",
+  "homepage": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
   },
-  "bugs": {
-    "url": "https://github.com/encode-studio-fe/fe-spec/issues"
-  },
-  "dependencies": {
-    "conventional-changelog-conventionalcommits": "^4.5.0"
-  }
+  "files": [
+    "lib"
+  ]
 }
+

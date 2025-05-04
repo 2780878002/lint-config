@@ -13,12 +13,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
+    "url": "git+https://github.com/2780878002/lint-config.git"
   },
   "bugs": {
     "url": "https://github.com/encode-studio-fe/fe-spec/issues"
   },
   "peerDependencies": {
     "markdownlint": "^0.28.1"
-  }
+  },
+  "gitHead": "49144c95f62560ed166805b94bfb1290b50334ba"
 }
